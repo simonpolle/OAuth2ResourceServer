@@ -16,5 +16,14 @@ These instructions will get you a copy of the project up and running on your loc
 * Repository URL : https://github.com/simonpolle/OAuth2Server.git 
 * Clone
 
+### Consume
+
+* Set Authorization header client:secret (Base64)
+![alt text](https://raw.githubusercontent.com/simonpolle/OAuth2ResourceServer/master/Screenshot_2.png)
+
+* Set client credentials
+![alt text](https://raw.githubusercontent.com/simonpolle/OAuth2ResourceServer/master/Screenshot_1.png)
+
+
 ## License
 This project is licensed under the MIT License
